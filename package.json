@@ -1,0 +1,23 @@
+{
+  "name": "0023Modulo7Sesion4",
+  "version": "1.0.0",
+  "description": "Actualización de datos en una BD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operezedutecno/0023Modulo7Sesion4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/operezedutecno/0023Modulo7Sesion4/issues"
+  },
+  "homepage": "https://github.com/operezedutecno/0023Modulo7Sesion4#readme",
+  "dependencies": {
+    "pg": "^8.11.1"
+  }
+}
